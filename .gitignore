@@ -1,0 +1,5 @@
+#eclipse meta
+/bin/
+.project
+.classpath
+.settings
