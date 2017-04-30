@@ -1,0 +1,47 @@
+Itemized Categories - Year To Date
+
+1/1/2016 through 12/10/2016 (Cash Basis)
+
+	Date	Account	Num	Description	Memo	Tag	Clr	Amount	
+									
+	Misc							-819.50	
+	3/3/2016	Savings		Amazon	Amazon purchase		c	-43.00	
+	3/28/2016	Savings		Amazon	Amazon purchase	c	-83.00	
+	4/8/2016	Savings		Amazon	Amazon purchase		c	-43.00	
+	7/11/2016	Savings		Amazon	Amazon purchase		c	-103.00	
+	7/18/2016	Savings		Amazon	Amazon purchase		c	-103.00	
+	8/12/2016	Savings		Newegg.com	Newegg purchase		c	-80.00	
+	9/12/2016	Savings		Amazon	Amazon purchase		c	-83.00	
+	9/26/2016	Savings		Amazon	Amazon purchase		c	-103.00	
+	10/3/2016	Savings		Amazon	Amazon purchase return		c	83.00	
+	10/28/2016	Savings		Newegg.com	Newegg purchase		c	-42.00	
+	11/30/2016	Savings		Amazon	Amazon purchase		c	-53.00	
+	Service:SampleA							-554.78	
+	3/31/2016	Checking		Service	Service Fee		c	-72.76	
+	3/31/2016	Checking		Service	Service Fee		c	-81.30	
+	4/29/2016	Checking		Service	Service Fee		c	-26.74	
+	5/9/2016	Checking		Service	Service Fee		c	-57.33	
+	5/9/2016	Checking		Service	Service Fee		c	-127.57		
+	6/22/2016	Checking		Service	Service Fee		c	-165.36	
+	6/23/2016	Checking		Service	Service Fee		c	-185.96	
+	6/23/2016	Checking		Service	Service Fee		c	-304.95	
+	6/29/2016	Checking		Service	Service Fee		c	-123.05	
+	7/9/2016	Checking		Service	Service Fee		c	179.76	
+	7/15/2016	Checking		Service	Service Fee		c	-36.38	
+	Service:SampleB							-545.59	
+	1/8/2016	Checking		Service	Service Fee		c	30.00	
+	1/27/2016	Checking		Service	Service Fee		c	-31.20	
+	2/15/2016	Checking		Service	Service Fee		c	-14.55	
+	4/13/2016	Checking		Service	Service Fee		c	-68.66	
+	4/13/2016	Checking		Service	Service Fee		c	-74.89	
+	4/29/2016	Checking		Service	Service Fee		c	-20.84	
+	5/16/2016	Checking		Service	Service Fee		c	-32.10	
+	7/8/2016	Checking		Service	Service Fee		c	-27.80	
+	7/12/2016	Checking		Service	Service Fee		c	-5.30	
+	7/16/2016	Other Acct		Service	Service Fee		c	-30.43	
+	8/26/2016	Other Acct		Service	Service Fee		c	-11.55	
+	11/17/2016	Other Acct		Service	Service Fee		c	-38.20	
+	11/17/2016	Other Acct		Service	Service Fee		c	-190.57	
+	11/21/2016	Other Acct		Service	Service Fee		c	-49.00	
+	11/22/2016	Other Acct		Service	Service Fee		c	19.50	
+	
